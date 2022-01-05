@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">CS student @ Georgia Tech</h3>
 
-- 🌱 I’m currently learning **Web and Mobile Development**
+- 🌱 I’m currently learning **Web & Mobile Development and Bioinformatics**
 
 - 📫 How to reach me **anmol.jandaur@gmail.com**
 
