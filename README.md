@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web & Mobile Development and Bioinformatics**
 
-- 📫 How to reach me **anmol.jandaur@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmoljandaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmoljandaur" height="30" width="40" /></a>
