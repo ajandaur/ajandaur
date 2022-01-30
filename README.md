@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">CS student @ Georgia Tech</h3>
 
-- 🌱 I’m currently learning **Web & Mobile Development and Bioinformatics**
+- 🌱 I’m currently learning **Full-Stack & iOS Development and Bioinformatics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
