@@ -2,8 +2,8 @@
 <h3 align="center">CS student @ Georgia Tech</h3>
 
 - 🌱 I’m currently learning **Full-Stack & iOS Development and Bioinformatics**
-- 🔭 I’m currently working on a habit-breaker app.
-- 🤔 I’m looking for my first software engineering position!
+- 🔭 I’m currently working on a habit-breaker/mental-health app.
+- 🤔 I’m looking for my first software engineering/product manager position!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
