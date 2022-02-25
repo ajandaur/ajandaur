@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">CS student @ Georgia Tech</h3>
 
-- 🌱 I’m currently learning **Full-Stack & iOS Development and Bioinformatics**
-- 🔭 I’m currently working on a habit-breaker/mental-health app.
-- 🤔 I’m looking for my first software engineering/product manager position!
+- 🌱 I’m have interests in **Full-Stack & iOS Development and Bioinformatics**
+- 🔭 I’m currently working on a mental-health iOS app I hope to release soon.
+- 🤔 In the meanwhile, I’m looking for my first software engineering/product manager position!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
