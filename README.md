@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">CS student @ Georgia Tech</h3>
+<h3 align="center">CS @ Georgia Tech</h3>
 
 - 🌱 I have interests in **Full-Stack & iOS Development and Bioinformatics**
 - 🔭 I’m currently working on a mental-health iOS app I hope to release soon.
