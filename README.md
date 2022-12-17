@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">CS @ Georgia Tech</h3>
-
-- 🌱 I have interests in **Full-Stack & iOS Development and Product Management**.
-- 🏥 I'm extremely passionate about fixing healthcare by empowering clinicians and patients through technology.
-- 🔭 I’m currently working on my first iOS app that I hope to release in the App Store by the end of the year. Fingers crossed! 🤞🏼
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
